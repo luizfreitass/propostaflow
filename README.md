@@ -1,16 +1,8 @@
-\# PropostaFlow
+# PropostaFlow
 
+API em .NET para gestão de propostas de crédito, com máquina de estados (Rascunho → EmAnalise → Aprovada/Reprovada). Projeto pessoal criado para estudo.
 
-
-API em .NET para gestão de propostas de crédito, com máquina de estados
-
-(Rascunho → EmAnalise → Aprovada/Reprovada). Projeto pessoal criado para estudo.
-
-
-
-\## Como rodar
-
-
+## Como rodar
 
 ```
 
@@ -20,9 +12,7 @@ dotnet run --project PropostaFlow.Api
 
 
 
-\## Como testar
-
-
+## Como testar
 
 ```
 
@@ -30,11 +20,6 @@ dotnet test
 
 ```
 
+## Status
 
-
-\## Status
-
-
-
-Em desenvolvimento: versão 0.1 (domínio em memória).
-
+Em desenvolvimento: construindo a versão 0.1, com os dados em memória (ainda sem banco de dados).
